@@ -8,6 +8,5 @@ logs
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-dist/**/*
 .DS_Store
 Thumbs.db
