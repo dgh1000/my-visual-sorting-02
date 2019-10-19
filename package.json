@@ -1,5 +1,5 @@
 {
-  "name": "chr-db-liver-server-init",
+  "name": "my-visual-sorting-02",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,5 +7,13 @@
   },
   "author": "Mike",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgh1000/my-visual-sorting-02.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dgh1000/my-visual-sorting-02/issues"
+  },
+  "homepage": "https://github.com/dgh1000/my-visual-sorting-02#readme",
   "description": ""
 }
